@@ -1,0 +1,4 @@
+baseURL = 'https://blog.prdai.dev/'
+languageCode = 'en-us'
+title = 'blog.prdai.dev'
+theme = 'nostyleplease'

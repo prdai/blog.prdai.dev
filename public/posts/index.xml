@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on blog.prdai.dev</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on blog.prdai.dev</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 23 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>accepting that you wont know it all</title>
+      <link>http://localhost:1313/posts/2025-11-23-accepting-that-you-wont-know-it-all/</link>
+      <pubDate>Sun, 23 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-11-23-accepting-that-you-wont-know-it-all/</guid>
+      <description>&lt;p&gt;have you ever actually sat down and configured your tsconfig.json? like really configured it, understood each option? or looked through your package-lock.json and understood why it&amp;rsquo;s there?&lt;/p&gt;&#xA;&lt;p&gt;most people haven&amp;rsquo;t. and that&amp;rsquo;s the thing i&amp;rsquo;ve been realizing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-obsession&#34;&gt;the obsession&lt;/h2&gt;&#xA;&lt;p&gt;when i started getting serious about programming, i somehow convinced myself that the solution to not knowing things was simple: memorize everything. every parameter, every function, every bit of syntax. if i knew it all, the gap would close.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>vibe-coding-paradox</title>
+      <link>http://localhost:1313/posts/2025-11-06-vibe-coding-paradox/</link>
+      <pubDate>Thu, 06 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-11-06-vibe-coding-paradox/</guid>
+      <description>&lt;p&gt;yo, so this is basically a bunch of thoughts i&amp;rsquo;ve had about vibe coding and generative ai that have been bouncing around in my head for a while. i asked claude to structure this properly so it&amp;rsquo;s actually readable, but these are my genuine thoughts on the whole thing.&lt;/p&gt;&#xA;&lt;h2 id=&#34;the-old-days&#34;&gt;the old days&lt;/h2&gt;&#xA;&lt;p&gt;i started programming around 2019, maybe 2020. back then, there were no ai tools whatsoever - completely different time.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>blog init</title>
+      <link>http://localhost:1313/posts/2025-11-05-blog-init/</link>
+      <pubDate>Wed, 05 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-11-05-blog-init/</guid>
+      <description>&lt;p&gt;yo, so here we are. first post. honestly i have no idea if i&#39;ll stick with this, might be the only thing on here for a while lol, but figured i&#39;d just start somewhere.&lt;/p&gt;&#xA;&lt;p&gt;basically, i wanna write about tech stuff. could be random thoughts, ideas i&#39;m still figuring out, or just whatever&#39;s on my mind that day. nothing too structured, just vibes really. maybe some thoughts on frameworks, tools, or whatever breaks my brain that week. honestly mostly just for me to dump stuff and see what sticks.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
