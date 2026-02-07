@@ -1,5 +1,5 @@
 +++
-title = '2026 02 07 7 Hours of Go Wasm and Cloudflare Worker'
+title = '6-7 Hours of Go Wasm and Cloudflare Worker'
 date = 2026-02-08T03:39:46+05:30
 draft = false
 +++
