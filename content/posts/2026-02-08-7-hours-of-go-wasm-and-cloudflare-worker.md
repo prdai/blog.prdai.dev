@@ -1,6 +1,6 @@
 ---
 title: "7 hours of go, wasm, and cloudflare workers"
-date: 2025-02-08T00:00:00+00:00
+date: 2026-02-08T00:00:00+00:00
 ---
 
 so i built a url shortener. go, compiled to webassembly, running on cloudflare workers. sounds straightforward when you say it like that. it was not.
