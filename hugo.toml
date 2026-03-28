@@ -2,3 +2,8 @@ baseURL = 'https://blog.prdai.dev/'
 languageCode = 'en-us'
 title = 'blog.prdai.dev'
 theme = 'nostyleplease'
+
+[params.meta]
+  favicon = true
+  faviconVersion = "1"
+
