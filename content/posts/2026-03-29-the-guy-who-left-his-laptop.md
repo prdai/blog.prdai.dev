@@ -97,7 +97,7 @@ Then he brought up AGI. "But what about when AGI comes? That changes everything.
 
 Maybe. If it comes. Which it won't. At least not anytime soon.
 
-It's the Elon Musk school of predictions at this point. "AGI next year" he says, every single year, without fail. The man has predicted AGI arriving more times than he's launched rockets. And yet here we are, still asking ChatGPT to fix our regex. It's part of the hype cycle. The sooner you accept that, the sooner you stop panicking about a future that keeps getting postponed indefinitely.
+It's the tech CEO school of predictions at this point. "AGI next year" they say, every single year, without fail. These guys have predicted AGI arriving more times than they've shipped actual products. And yet here we are, still asking ChatGPT to fix our regex. It's part of the hype cycle. The sooner you accept that, the sooner you stop panicking about a future that keeps getting postponed indefinitely.
 
 Could it eventually happen? Sure. But "eventually" is doing a lot of heavy lifting in that sentence. I'm not gonna restructure my entire career around a promise that's been "just around the corner" for years.
 
