@@ -3,7 +3,6 @@ languageCode = 'en-us'
 title = 'blog.prdai.dev'
 theme = 'nostyleplease'
 
-[params.meta]
-  favicon = true
-  faviconVersion = "1"
+[params]
+  favicon = "/favicon.ico"
 
