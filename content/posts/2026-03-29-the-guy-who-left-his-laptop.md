@@ -87,7 +87,7 @@ Yeah, they are. But most of it? I think it's performative bullshit.
 
 Here's what actually happened: companies over-hired massively during the boom. Now they need to correct. And "AI" is a beautiful, convenient excuse to justify cuts that were coming regardless. You fire a bunch of developers, Wall Street gives you a little stock bump because investors love an efficiency narrative, and everyone claps.
 
-Except then you realize you actually needed those people. And you hire them back. Which is literally what happened to Salesforce. Fired devs, then had to bring them back because, surprise, you need developers to build and maintain software. Wild concept, I know.
+Except then you realize you actually needed those people. And you hire them back. Which is literally what happened at some company I vaguely remember reading about. Fired devs, then had to bring them back because, surprise, you need developers to build and maintain software. Wild concept, I know.
 
 AI has an impact, I'm not denying that. But it's not this fucking big. It's being used as a scapegoat for decisions that have nothing to do with technology and everything to do with cleaning up the mess of over-hiring.
 
