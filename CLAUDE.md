@@ -10,6 +10,10 @@ Read the existing posts in `content/posts/` before drafting anything. The voice 
 
 When drafting a post, use **only** what the author explicitly tells you. Do not fill in details, invent examples, add narrative arcs, or flesh out points he didn't give you. If he says "talk about X and Y," write about X and Y — not your idea of what X and Y might look like. If a section feels thin, leave it thin. It is his post, not yours. When in doubt, ask. Never assume.
 
+## Paraphrasing and refinement
+
+The author often gives raw thoughts (stream-of-consciousness dumps). You can paraphrase these into polished prose that matches the blog's voice and tone — tighter writing, better flow, added humor/jokes where appropriate. The content and meaning must stay exactly the same, but the delivery can be refined. Check the existing posts for vibe/tone reference, not the raw input. Existing posts are paraphrased, polished versions of raw thoughts.
+
 ## Co-authoring with Claude
 
 When Claude contributes to a post (drafts, edits, structure), add as a co-author in the commit message:
