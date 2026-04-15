@@ -1,7 +1,7 @@
 +++
 title = 'the safety net'
 date = 2026-04-15T00:00:00+05:30
-draft = true
+draft = false
 +++
 
 so i was talking to a friend today. don't even remember how we got there but we landed on the topic of work. corporate. that whole thing. and it shook something loose that i've been circling for a while.
