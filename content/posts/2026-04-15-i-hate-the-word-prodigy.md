@@ -1,7 +1,7 @@
 +++
 title = 'i hate the word prodigy'
 date = 2026-04-15T00:00:00+05:30
-draft = true
+draft = false
 +++
 
 i hate the word "prodigy." genuinely hate it. but i also don't know a better one for what i'm trying to talk about here, so we're just gonna go with it and i'll resent it the whole time.
