@@ -4,44 +4,26 @@ date = 2026-04-15T00:00:00+05:30
 draft = false
 +++
 
-so i was talking to a friend today. don't even remember how we got there but we landed on the topic of work. corporate. that whole thing. and it shook something loose that i've been circling for a while.
+so i was talking to a friend today and we somehow landed on the topic of corporate. and that's when it actually clicked for me properly.
 
-## first time ever
+this past stretch was my first time ever actually working. a real job. and it was good. genuinely. even the repetitive parts — the existing inside the loop of it — there was something okay about that.
 
-this past stretch was the first time i've ever actually worked. like. a real job. show up, do the thing, clock out. corporate in every sense of the word.
+but i cannot imagine corporate. like, long term, full life, that's the thing. i can't picture it.
 
-and i'll be honest — i loved it. not because the work was mind-blowing. it wasn't. a lot of it was repetitive. same shape of tickets, same meetings, same hours. but the repetitiveness was kind of the point? there was something weirdly comforting about knowing what the day looked like before it started. show up, exist inside the loop, go home. that's it. that's the job.
+## the safety net
 
-## the level max
+here's the thing i realized talking to my friend today. i didn't really need to work. i could've walked out at any point and nothing would have happened. and knowing that? that was weirdly, deeply comforting the entire time.
 
-i level-maxxed there. genuinely. i don't think i've grown that fast in any other stretch of my life.
+that's the part worth sitting with. the comfort wasn't from the job itself. it was from knowing i didn't depend on it. the safety net was always there. and that changes everything about how you experience the thing.
 
-the stuff you pick up in a few months of actually shipping code inside a real org is stuff you don't get from side projects. not even close. you're working inside codebases you didn't write. tickets that were already wrong by the time they hit you. people who know way more than you sitting next to people who know way less than you, and you have to figure out which is which without making it weird.
+i think about the people around me who don't have that. who actually need the paycheck. the job hits different when leaving isn't an option.
 
-that's just school, man. you can't replicate it by grinding leetcode or watching primeagen clips at 2am. you need the real thing.
+## level maxxed
 
-## but here's the thing
+i will say — i level-maxxed there. genuinely. the growth was real. being inside an actual org, shipping actual things, that does something to you that nothing else really does.
 
-i also couldn't picture doing it forever. like, genuinely could not imagine that life stretched out indefinitely. and i think the reason is simple.
+and post-work has been very nice. i like where i'm at.
 
-i never actually needed the job.
+but i'm going back into corporate in about a month. different place. and i'm thinking about how to go into it knowing what i know now — about the safety net, about dependence, about what made it work the first time.
 
-i could've walked out any day and nothing would have broken. no rent, no family depending on me, no real stakes. that's not because i'm rich or anything, it's just where i am in life right now. undergrad, at home, no obligations worth naming. the whole corporate experience was running on easy mode because the safety net was there the entire time.
-
-and that's a weird thing to sit with. because the thing that made it bearable — the freedom to leave — is the exact thing most people in that same office don't have. they need the paycheck. they're locked in. i was just visiting.
-
-## post-work has been nice
-
-since it ended, life has been... easy. not in a lazy way. i've been doing my own stuff, actually sleeping, building side things i wanted to build for months. there's a specific kind of calm that shows up when you don't have to be somewhere at 9am. and i'm not going to pretend i don't like it. i like it a lot.
-
-which is kind of the problem, honestly. because the contrast is sharp. on-mode vs off-mode. and once you've tasted the off-mode version, going back in sounds heavier than it should.
-
-## going back
-
-i'm heading back into corporate in about a month. different place, different role, roughly the same shape.
-
-and i'm trying to go in with eyes open this time. i know the level-max is real and i want more of it. i know the safety net is still there, which means i can actually be honest with myself when something isn't working instead of forcing it. i'm not trying to romanticize the grind. also not trying to pretend i'm above it.
-
-the move, i think, is just show up, absorb everything, and not get attached to the loop. the loop is there to teach you. it's not there to swallow you.
-
-we'll see how that lands once i'm actually in it. i might be writing a very different post in three months. probably will. :)
+still figuring that part out. :)
