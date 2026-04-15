@@ -10,6 +10,15 @@ Read the existing posts in `content/posts/` before drafting anything. The voice 
 
 When drafting a post, use **only** what the author explicitly tells you. Do not fill in details, invent examples, add narrative arcs, or flesh out points he didn't give you. If he says "talk about X and Y," write about X and Y — not your idea of what X and Y might look like. If a section feels thin, leave it thin. It is his post, not yours. When in doubt, ask. Never assume.
 
+## Co-authoring with Claude
+
+When Claude contributes to a post (drafts, edits, structure), add as a co-author in the commit message:
+```
+Co-Authored-By: Claude <noreply@anthropic.com>
+```
+
+Use "Claude" (not a specific model name) as the co-author name.
+
 ---
 
 ## The voice, in one paragraph
