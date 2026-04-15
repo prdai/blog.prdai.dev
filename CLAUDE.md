@@ -6,6 +6,10 @@ This repo is a personal blog. The code is just Hugo + a vendored theme — it ba
 
 Read the existing posts in `content/posts/` before drafting anything. The voice notes below are a summary, not a replacement.
 
+## CRITICAL: Never invent content
+
+When drafting a post, use **only** what the author explicitly tells you. Do not fill in details, invent examples, add narrative arcs, or flesh out points he didn't give you. If he says "talk about X and Y," write about X and Y — not your idea of what X and Y might look like. If a section feels thin, leave it thin. It is his post, not yours. When in doubt, ask. Never assume.
+
 ---
 
 ## The voice, in one paragraph
