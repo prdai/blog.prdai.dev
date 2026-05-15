@@ -30,13 +30,13 @@ That's the pattern.
 
 So why?
 
-The CV game right now is just different. It's mostly ATS scoring at this point. Some standardized matching workflow where it's not really a person reading your CV anymore — it's a computer playing skill bingo. Do you have these specific skills listed, yes or no. If yes, you're through. If no, fuck off.
+The CV game right now is just different. It's mostly ATS scoring at this point. Some standardized matching workflow where it's not really a person reading your CV anymore. It's a computer playing skill bingo. Do you have these specific skills listed, yes or no. If yes, you're through. If no, fuck off.
 
-A GitHub can kind of tell you something about a dev. You look at someone's repos and you get a sense of how much they actually care. How into this they are. ykwim? A CV really can't portray any of that. Even when it could — through some dotfiles link buried in there — that's not what's being matched on anyway. Doesn't matter.
+A GitHub can kind of tell you something about a dev. You look at someone's repos and you get a sense of how much they actually care. How into this they are. ykwim? A CV really can't portray any of that. Even when it could (through some dotfiles link buried in there), that's not what's being matched on anyway. Doesn't matter.
 
 And from a company perspective, none of that matters either. They don't give two shits about your dotfiles or your "passion" or whatever else. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side? It makes sense. It really does. It's a clean way to sort through thousands of applications.
 
-There's a tension there though. The dev who really cares — the dotfiles person — gets a ton of satisfaction out of crafting their setup, knowing their stack, going deep. That stuff matters to them. The company just doesn't care that it matters.
+There's a tension there though. The dev who really cares, the dotfiles person, gets a ton of satisfaction out of crafting their setup, knowing their stack, going deep. That stuff matters to them. The company just doesn't care that it matters.
 
 ## Month vs Day
 
@@ -50,13 +50,13 @@ And here's where it gets cooked. More polished projects in the pool, fewer jobs 
 
 So now I'm stuck with this math problem.
 
-If I sit down and build a project without AI, putting in the hours, the days, the random side-quest thinking — it takes me a month. Someone else does the same thing with agentic tooling in a day.
+If I sit down and build a project without AI, putting in the hours, the days, the random side-quest thinking, it takes me a month. Someone else does the same thing with agentic tooling in a day.
 
 A month. A day.
 
 Why am I doing it myself.
 
-Like, the integrity, the dignity, the care — yes, all real. I care about all of it. But at the end of the day, is that gonna get me that mf job I want? I don't think so. ;-;
+Like, the integrity, the dignity, the care. Yes, all real. I care about all of it. But at the end of the day, is that gonna get me that mf job I want? I don't think so. ;-;
 
 ## About That
 
@@ -90,6 +90,6 @@ ykwim?
 
 That's not it, gng.
 
-I'll caveat all of this — it's mostly a junior-level problem. For senior people, their experience speaks way louder than whatever side project they have on GitHub. Some of this still applies to them asw I'm sure, but the pressure isn't the same.
+I'll caveat all of this. It's mostly a junior-level problem. For senior people, their experience speaks way louder than whatever side project they have on GitHub. Some of this still applies to them asw I'm sure, but the pressure isn't the same.
 
 Anyway. That's where I'm at. Contemplating. Leaning. Hope my point landed. :))
