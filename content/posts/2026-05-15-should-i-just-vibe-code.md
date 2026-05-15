@@ -70,7 +70,7 @@ But I've started one.
 
 My first actual properly agentic engineered project, where I'm basically just a reviewer reading the code Codex produces. I review it. I steer it. I'm not the one writing it line by line.
 
-And it has a really good tech stack. Terraform. EC2 instances. Stuff I have genuinely never touched before. And somehow? It all fucking works. I'm shipping faster than I ever have. I've also been using the same approach for little open source contributions on the side. That part is fine I guess, just doesn't hit the same. The satisfaction isn't there. But the output is.
+And it has a really good tech stack. Terraform. EC2 Nitro Enclaves. Go. Stuff I have genuinely never touched before. And somehow? It all fucking works. I'm shipping faster than I ever have. I've also been using the same approach for little open source contributions on the side. That part is fine I guess, just doesn't hit the same. The satisfaction isn't there. But the output is.
 
 So what's stopping me from putting that on my CV? Posting it on LinkedIn? A few more of these and I'm in fucking devops lmao. That's the path, atp.
 
