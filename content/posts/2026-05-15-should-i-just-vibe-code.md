@@ -8,7 +8,7 @@ Recently a bunch of my friends started actually getting into the job market. Rea
 
 There's a pattern. I don't really like the pattern.
 
-For context, this whole thing properly kicked off a few weeks ago. I was at the cafe (yes, the same one) and ended up randomly talking to a senior engineer for a bit. I don't really remember what got said anymore. But the conversation set something off and it hasn't really stopped. So here we are.
+For context, this whole thing properly kicked off a few weeks ago. I was at the cafe (yes, [the same one from last time]({{< ref "posts/2026-03-29-the-guy-who-left-his-laptop.md" >}})) and ended up randomly talking to a senior engineer for a bit. I don't really remember what got said anymore. But the conversation set something off and it hasn't really stopped. So here we are.
 
 ## The Split
 
