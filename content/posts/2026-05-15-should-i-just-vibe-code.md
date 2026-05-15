@@ -42,7 +42,7 @@ Sucks for the dotfiles person though. They get a ton of satisfaction out of craf
 
 Other thing I keep coming back to: the average project quality has gone up.
 
-The bar for what counts as a decent junior project has shifted. And it's shifted because of AI. Not in a bad way, just as a fact. The average GitHub project is probably better than it used to be. Sure, AI can spit out garbage too, ofc. But in aggregate? People are shipping more, and what they're shipping is more polished than what they would've shipped on their own.
+The bar for what counts as a decent junior project has shifted. And it's shifted because of AI. Not in a bad way, just as a fact. The average GitHub project is probably better than it used to be. Sure, AI can spit out garbage too, ofc. But in general? People are shipping more, and what they're shipping is more polished than what they would've shipped on their own.
 
 Which means the bar for a "good junior project" has gone up too. Naturally.
 
