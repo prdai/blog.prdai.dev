@@ -1,7 +1,7 @@
 +++
 title = 'should i just vibe code'
 date = 2026-05-15T00:00:00+05:30
-draft = true
+draft = false
 +++
 
 It's the cafe again. Random conversation with a senior engineer this time. I'm not gonna recap the whole thing because honestly I don't remember the specifics that well — but it kicked off a train of thought that's been sitting in my head for weeks. So here we go.
