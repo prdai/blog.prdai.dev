@@ -36,7 +36,7 @@ A GitHub can kind of tell you something about a dev. You look at someone's repos
 
 And from a company perspective, none of that matters either. They don't give two shits about your dotfiles or your "passion" or whatever else. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side? It makes sense. It really does. It's a clean way to sort through thousands of applications.
 
-There's a tension there though. The dev who really cares, the dotfiles person, gets a ton of satisfaction out of crafting their setup, knowing their stack, going deep. That stuff matters to them. The company just doesn't care that it matters.
+Sucks for the dotfiles person though. They get a ton of satisfaction out of crafting their setup, knowing their stack, going deep. That stuff matters to them. The company just doesn't care that it matters.
 
 ## Month vs Day
 
