@@ -18,7 +18,7 @@ I have a decent variety of friends in this space. But when I look at the ones ap
 
 Camp one: the modern programmers. Codex, Claude, the whole stack of agentic tooling. They've integrated all of that into how they work. They ship.
 
-Camp two: the more "traditional" devs. They love the code. They know their shit. They know their stack inside out. The dotfiles people. The ones who actually give a damn about the craft.
+Camp two: the more "traditional" devs. They know their stack inside out. The dotfiles people.
 
 I'm not trying to do the whole AI vs non-AI thing here. That's a tired argument. I'm using it as a way to split the group. Because the split matters.
 
