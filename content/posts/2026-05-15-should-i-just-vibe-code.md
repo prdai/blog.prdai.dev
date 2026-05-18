@@ -4,21 +4,23 @@ date = 2026-05-15T00:00:00+05:30
 draft = false
 +++
 
-Recently a bunch of my friends started actually getting into the job market. Real applications, real interviews, real outcomes. I've been watching pretty closely.
+So. A few weeks ago I was at the cafe (yes, [the same one]({{< ref "posts/2026-03-29-the-guy-who-left-his-laptop.md" >}}). variety in my life is famously not a thing) and I ended up randomly talking to a senior engineer for a bit. I don't really remember what got said anymore. But something about that conversation set off a chain of thoughts in my head and the chain hasn't really stopped since. So here we are.
 
-There's a pattern. I don't really like the pattern.
+The thing it actually set off though was about my friends.
 
-For context, this whole thing properly kicked off a few weeks ago. I was at the cafe (yes, [the same one from last time]({{< ref "posts/2026-03-29-the-guy-who-left-his-laptop.md" >}})) and ended up randomly talking to a senior engineer for a bit. I don't really remember what got said anymore. But the conversation set something off and it hasn't really stopped. So here we are.
+A bunch of them have started getting into the job market lately. Real applications, real interviews, real outcomes. I've been watching pretty closely.
+
+There's a pattern. I don't like the pattern.
 
 ## The Split
 
-I have a pretty decent variety of friends. But when I look at the ones who are job hunting right now, there's basically two camps.
+I have a decent variety of friends in this space. But when I look at the ones applying to jobs right now, there's basically two camps.
 
-Camp one: the modern programmers. Codex, Claude, the whole stack of agentic tooling. They've integrated all of this into how they work.
+Camp one: the modern programmers. Codex, Claude, the whole stack of agentic tooling. They've integrated all of that into how they work. They ship.
 
-Camp two: the more "traditional" devs. They love the code. They know their shit. They know their entire stack inside out. The dotfiles people. The ones who actually give a damn about the craft.
+Camp two: the more "traditional" devs. They love the code. They know their shit. They know their stack inside out. The dotfiles people. The ones who actually give a damn about the craft.
 
-I'm not trying to do the whole AI vs non-AI thing here. That's a tired argument. I'm just using it as a way to split the group, because the split matters.
+I'm not trying to do the whole AI vs non-AI thing here. That's a tired argument. I'm using it as a way to split the group. Because the split matters.
 
 The friends in camp one got jobs.
 
@@ -34,19 +36,21 @@ The CV game right now is just different. It's mostly ATS scoring at this point. 
 
 A GitHub can kind of tell you something about a dev. You look at someone's repos and you get a sense of how much they actually care. How into this they are. ykwim? A CV really can't portray any of that. Even when it could (through some dotfiles link buried in there), that's not what's being matched on anyway. Doesn't matter.
 
-And from a company perspective, none of that matters either. They don't give two shits about your dotfiles or your "passion" or whatever else. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side? It makes sense. It really does. It's a clean way to sort through thousands of applications.
+From a company perspective? None of that matters either. They don't give two shits about your dotfiles or your "passion" or whatever else. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side, it makes sense. It really does. It's a clean way to sort through thousands of applications.
 
 Sucks for the dotfiles person though. They get a ton of satisfaction out of crafting their setup, knowing their stack, going deep. That stuff matters to them. The company just doesn't care that it matters.
 
-## Month vs Day
+## The Bar Moved
 
 Other thing I keep coming back to: the average project quality has gone up.
 
-The bar for what counts as a decent junior project has shifted. And it's shifted because of AI. Not in a bad way, just as a fact. The average GitHub project is probably better than it used to be. Sure, AI can spit out garbage too, ofc. But in general? People are shipping more, and what they're shipping is more polished than what they would've shipped on their own.
+The bar for what counts as a decent junior project has shifted. And it shifted because of AI. Not in a bad way, just as a fact. The average GitHub project is probably better than it used to be. Sure, AI can spit out garbage too, ofc. But in general? People are shipping more, and what they're shipping is more polished than what they would've shipped on their own.
 
 Which means the bar for a "good junior project" has gone up too. Naturally.
 
-And here's where it gets cooked. More polished projects in the pool, fewer jobs to fight over, more competition than before. From the company side it tracks. From the side of trying to land your first job? It's brutal.
+More polished projects in the pool. Fewer jobs to fight over. More competition than before. From the company side it tracks. From the side of trying to land your first job? It's brutal.
+
+## A Month, A Day
 
 So now I'm stuck with this math problem.
 
@@ -56,21 +60,23 @@ A month. A day.
 
 Why am I doing it myself.
 
-Like, the integrity, the dignity, the care. Yes, all real. I care about all of it. But at the end of the day, is that gonna get me that mf job I want? I don't think so. ;-;
+Like, the integrity. The dignity. The care. Yes, all real. I care about all of it. But at the end of the day, is that gonna get me that mf job I want?
 
-## About That
+I don't think so. ;-;
 
-Yeah. So.
+## So Here's the Thing
 
 I haven't actually vibe coded a proper project and put it on my GitHub yet. I've used AI for shit like making this blog and other small stuff. Nothing I'd call a real agentic project shipped under my name.
 
-Also I think "vibe coded" is a bad way to call it anyway. Agentic engineering. Or whatever you wanna call it. Same idea, less of the meme baggage.
+(Also I think "vibe coded" is a bad way to call it anyway. Agentic engineering. Or whatever you wanna call it. Same idea, less of the meme baggage.)
 
 But I've started one.
 
 My first actual properly agentic engineered project, where I'm basically just a reviewer reading the code Codex produces. I review it. I steer it. I'm not the one writing it line by line.
 
-And it has a really good tech stack. Terraform. EC2 Nitro Enclaves. Go. Stuff I have genuinely never touched before. And somehow? It all fucking works. I'm shipping faster than I ever have. I've also been using the same approach for little open source contributions on the side. That part is fine I guess, just doesn't hit the same. The satisfaction isn't there. But the output is.
+And it has a really good tech stack. Terraform. EC2 Nitro Enclaves. Go. Stuff I have genuinely never touched before. And somehow? It all fucking works. I'm shipping faster than I ever have.
+
+I've also been using the same approach for little open source contributions on the side. That part is fine I guess, just doesn't hit the same. The satisfaction isn't there. But the output is.
 
 So what's stopping me from putting that on my CV? Posting it on LinkedIn? A few more of these and I'm in fucking devops lmao. That's the path, atp.
 
@@ -90,6 +96,6 @@ ykwim?
 
 That's not it, gng.
 
-I'll caveat all of this. It's mostly a junior-level problem. For senior people, their experience speaks way louder than whatever side project they have on GitHub. Some of this still applies to them asw I'm sure, but the pressure isn't the same.
+I'll caveat all of this. It's mostly a junior-level problem. For senior people, their experience speaks way louder than whatever side project they have on GitHub. Some of this still applies to them I'm sure, but the pressure isn't the same.
 
 Anyway. That's where I'm at. Contemplating. Leaning. Hope my point landed. :))
