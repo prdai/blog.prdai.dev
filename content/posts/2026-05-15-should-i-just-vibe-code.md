@@ -18,7 +18,7 @@ Looking at the ones applying to jobs right now, it splits into two camps.
 
 Camp one: the modern programmers. Codex, Claude, the whole stack of agentic tooling. They've integrated all of that into how they work. They ship.
 
-Camp two: the more "traditional" devs. They know their stack inside out. The dotfiles people.
+Camp two: the more "traditional" devs. They know their stack inside out. The dotfiles people. They go deep.
 
 I'm not trying to do the whole AI vs non-AI thing here. That's a tired argument. I'm using it as a way to split the group. Because the split matters.
 
@@ -32,7 +32,7 @@ That's the pattern.
 
 So why?
 
-The CV game right now is just different. It's mostly ATS scoring at this point. Some standardized matching workflow where it's not really a person reading your CV anymore. It's a computer playing skill bingo. Do you have these specific skills listed, yes or no. If yes, you're through. If no, fuck off.
+The CV game right now is just different. It's mostly [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) scoring at this point. Some standardized matching workflow where it's not really a person reading your CV anymore. It's a computer playing skill bingo. Do you have these specific skills listed, yes or no. If yes, you're through. If no, fuck off.
 
 A GitHub can kind of tell you something about a dev. You look at someone's repos and you get a sense of how much they actually care. How into this they are. ykwim? A CV really can't portray any of that. Even when it could (through some dotfiles link buried in there), that's not what's being matched on anyway. Doesn't matter.
 
