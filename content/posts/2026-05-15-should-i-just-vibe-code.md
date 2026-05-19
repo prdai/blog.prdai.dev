@@ -78,6 +78,4 @@ But the way I see it now? There's a game that needs to be played. And if you don
 
 idk.
 
-I'll caveat all of this. It's mostly a junior-level problem. For senior people, their experience speaks way louder than whatever side project they have on GitHub. Some of this still applies to them I'm sure, but the pressure isn't the same.
-
 Anyway. That's where I'm at. Contemplating. Leaning. Confused. Hope my point landed. :))
