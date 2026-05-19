@@ -60,7 +60,9 @@ ykwim?
 
 That's not it, gng.
 
-So that's actually the question I keep getting stuck on. Pick a side or stay in the middle.
+## So Now What
+
+Pick a side or stay in the middle.
 
 Use AI: actual results, no satisfaction. Don't use AI: satisfaction, no actual results. The middle: doing both kinda badly. Which is basically where I've been this whole time.
 
