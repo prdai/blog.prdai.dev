@@ -14,25 +14,25 @@ There's a pattern. I don't like it. And I think I'm in it.
 
 ## The Split
 
-Looking at the ones applying to jobs right now, it splits into two camps.
+Looking at the ones applying to jobs right now, the line I keep seeing comes down to one thing. AI users and non-AI users. That's it.
 
-Camp one: the modern programmers. Codex, Claude, the whole stack of agentic tooling. They've integrated all of that into how they work. They ship.
+Some of my friends have fully integrated Codex, Claude, the whole agentic stack into how they work. They ship a lot.
 
-Camp two: the more "traditional" devs. They know their stack inside out. The dotfiles people. They go deep.
+Others don't really touch it. They write all the code themselves. They ship too, just slower.
 
-I'm not trying to make this an AI thing. But honestly, the common pattern is exactly that. Camp two mostly doesn't like using AI. Camp one is basically powered by it. I'm not forcing the split. It's just there. And the split matters.
+I'm not forcing this framing. The split is just AI usage. Not personality types, not how passionate someone is, not anything else. Just whether you use AI or not.
 
-The friends in camp one got jobs.
+The friends using AI got jobs.
 
-The friends in camp two didn't.
+The friends who don't really use AI didn't.
 
 That's the pattern.
 
 And then there's me. Somewhere in the middle of all this.
 
-If I had to pick, I'd say camp two. Or at least I want to be. I like going deep. I like understanding why things work the way they do. The dotfiles shit hits for me.
+If I had to pick, I'd say I lean toward the non-AI side. I like writing the code myself. I like understanding why things work. The dotfiles shit hits for me.
 
-But I can't fully commit to that side either. Because honestly? It feels like a satisfaction vs actual results thing. Camp two has the satisfaction. Camp one has the actual results. And I don't know which one I'm supposed to pick.
+But I can't fully commit to that side either. Because honestly? It feels like a satisfaction vs actual results thing. The non-AI side has the satisfaction. The AI side has the actual results. And I don't know which one I'm supposed to pick.
 
 Confused, basically. That's where I am.
 
@@ -44,7 +44,7 @@ The CV game right now is just different. It's mostly [ATS](https://en.wikipedia.
 
 A GitHub can kind of tell you something about a dev. Look at someone's repos and you get a sense of how into this they are. ykwim? Doesn't matter at this stage though. The bot doesn't see it. It's just matching on what you've shipped with. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side, it makes sense. It's a clean way to sort through thousands of applications.
 
-And that's where the AI usage gap actually shows up. The dotfiles person tends to build passionate, niche shit. Things they're personally into. Which is great, but it's not really what companies are scanning for. Camp one with AI just churns out projects in whatever stack is being hired for. Aligned with the demand. ykwim?
+And here's where the AI users pull ahead. They ship more, so they have more for the bot to match against. That's basically it. Same depth on either side. The AI side just has bigger surface area on paper.
 
 ## The Bar Moved
 
@@ -66,7 +66,7 @@ A month. A day.
 
 Why am I doing it myself.
 
-And it's not even just the big projects. Even my own dotfiles, I've started using AI to fix them up. Which is wild because that's the one thing the camp two people are supposed to protect. But the thought process is just: what's the point of spending hours on this when AI gets me there in five minutes?
+And it's not even just the big projects. Even my own dotfiles, I've started using AI to fix them up. Which is wild because dotfiles are supposed to be the one thing you do yourself, with full intention. But the thought process is just: what's the point of spending hours on this when AI gets me there in five minutes?
 
 The math problem isn't theoretical for me. It's already eating into the stuff I thought I cared about.
 
@@ -96,7 +96,7 @@ I'm leaning toward this. I could probably agentic engineer something solid in Ru
 
 But here's the part I haven't said yet.
 
-Remember those two camps? The dotfiles people. The dev satisfaction people. The ones who actually know their shit.
+Remember the non-AI side? The people writing all the code themselves. Going deep on every detail. Knowing their shit cold.
 
 If they start using AI? I bet your ass they're gonna generate way better projects and code than the rest of us. Because they have the baseline. They have the instincts. They have the depth.
 
@@ -108,7 +108,7 @@ That's not it, gng.
 
 So that's actually the question I keep getting stuck on. Pick a side or stay in the middle.
 
-Camp one: actual results, no satisfaction. Camp two: satisfaction, no actual results. The middle: doing both kinda badly. Which is basically where I've been this whole time.
+Use AI: actual results, no satisfaction. Don't use AI: satisfaction, no actual results. The middle: doing both kinda badly. Which is basically where I've been this whole time.
 
 But the way I see it now? There's a game that needs to be played. And if you don't play, I guess you get cooked. That's kinda the end thing. At least that's what I've been seeing.
 
