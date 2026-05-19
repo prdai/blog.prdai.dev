@@ -32,7 +32,7 @@ And then there's me. Somewhere in the middle of all this.
 
 If I had to pick, I'd say camp two. Or at least I want to be. I like going deep. I like understanding why things work the way they do. The dotfiles shit hits for me.
 
-But I can't really commit to that side either, because I keep watching camp one ship. ykwim?
+But I can't fully commit to that side either. Because honestly? It feels like a satisfaction vs actual results thing. Camp two has the satisfaction. Camp one has the actual results. And I don't know which one I'm supposed to pick.
 
 Confused, basically. That's where I am.
 
@@ -110,9 +110,11 @@ That's not it, gng.
 
 So that's actually the question I keep getting stuck on. Pick a side or stay in the middle.
 
-Camp one, full send, stop caring about the deep stuff. Camp two, stay deep, accept the math is gonna keep eating me alive. Or this confused middle thing where I'm doing both kinda badly. Which is basically where I've been this whole time.
+Camp one: actual results, no satisfaction. Camp two: satisfaction, no actual results. The middle: doing both kinda badly. Which is basically where I've been this whole time.
 
-I don't know yet. That's the honest answer.
+But the way I see it now? There's a game that needs to be played. And if you don't play, I guess you get cooked. That's kinda the end thing. At least that's what I've been seeing.
+
+idk.
 
 I'll caveat all of this. It's mostly a junior-level problem. For senior people, their experience speaks way louder than whatever side project they have on GitHub. Some of this still applies to them I'm sure, but the pressure isn't the same.
 
