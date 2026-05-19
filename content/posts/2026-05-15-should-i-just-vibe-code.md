@@ -12,14 +12,6 @@ Right now? Not really. I use AI for the small stuff. The blog. Little fixes. But
 
 Lately though, something's been shifting. And I don't think I can keep this going.
 
-## What I'm Seeing
-
-The average project quality has gone up. AI made it move. People are shipping more, and what they're shipping is more polished than what they would've shipped on their own. The bar for what counts as a decent junior project has shifted up.
-
-I see this everywhere now. Projects I would've spent a month on, finished by other people in a day. The CV game has also gotten weird. [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) bots playing skill bingo, AI users having more on the list to be matched on.
-
-It's not really a market analysis or whatever. It's just what I've been watching happen. And it's been making me reconsider.
-
 ## A Month, A Day
 
 So now I'm stuck with this math problem.
