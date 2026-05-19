@@ -8,9 +8,9 @@ So. A few weeks ago I was at the cafe (yes, [the same one]({{< ref "posts/2026-0
 
 The thing I keep getting stuck on is whether I should just fully start using AI for everything. Like for real. No more pretending I'm too principled for it.
 
-Right now? Not really. I use AI for the small stuff. The blog. Little fixes. But for the actual coding work? I still mostly write it myself. I like going deep. I like understanding why things work. The dotfiles shit hits for me.
+Right now? Not really. I use AI for the small stuff. The blog. Little fixes. But for the actual coding work? I still mostly write it myself. I like going deep. I like understanding why things work. One of those dotfiles people. Or I've been one.
 
-That's been my thing for a while. But I don't think I can keep this going.
+Lately though, something's been shifting. And I don't think I can keep this going.
 
 ## What I'm Seeing
 
