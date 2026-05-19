@@ -40,11 +40,9 @@ Confused, basically. That's where I am.
 
 So why?
 
-The CV game right now is just different. It's mostly [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) scoring at this point. Some standardized matching workflow where it's not really a person reading your CV anymore. It's a computer playing skill bingo. Do you have these specific skills listed, yes or no. If yes, you're through. If no, fuck off.
+The CV game right now is just different. It's mostly [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) scoring at this point. A computer playing skill bingo. Do you have these specific skills listed, yes or no. If yes, you're through. If no, fuck off.
 
-A GitHub can kind of tell you something about a dev. You look at someone's repos and you get a sense of how much they actually care. How into this they are. ykwim? A CV really can't portray any of that. Even when it could (through some dotfiles link buried in there), that's not what's being matched on anyway. Doesn't matter.
-
-From a company perspective? None of that matters either. They don't give two shits about your dotfiles or your "passion" or whatever else. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side, it makes sense. It really does. It's a clean way to sort through thousands of applications.
+A GitHub can kind of tell you something about a dev. Look at someone's repos and you get a sense of how into this they are. ykwim? Doesn't matter though. The bot doesn't see it. And the company doesn't give two shits about your dotfiles or your "passion" anyway. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side, it makes sense. It's a clean way to sort through thousands of applications.
 
 Sucks for the dotfiles person though. They get a ton of satisfaction out of crafting their setup, knowing their stack, going deep. That stuff matters to them. The company just doesn't care that it matters.
 
@@ -90,7 +88,7 @@ And it has a really good tech stack. Terraform. EC2 Nitro Enclaves. Go. Stuff I 
 
 I've also been using the same approach for little open source contributions on the side. That part is fine I guess, just doesn't hit the same. The satisfaction isn't there. But the output is.
 
-So what's stopping me from putting that on my CV? Posting it on LinkedIn? A few more of these and I'm in fucking devops lmao. That's the path, atp.
+So what's stopping me from putting that on my CV? Posting it on LinkedIn? A few more of these and I can portray myself as basically anything I want lmao. Is that where we're headed?
 
 ## The Part That Actually Gets Me
 
