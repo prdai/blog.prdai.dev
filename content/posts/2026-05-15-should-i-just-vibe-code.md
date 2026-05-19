@@ -20,7 +20,7 @@ Camp one: the modern programmers. Codex, Claude, the whole stack of agentic tool
 
 Camp two: the more "traditional" devs. They know their stack inside out. The dotfiles people. They go deep.
 
-I'm not trying to do the whole AI vs non-AI thing here. That's a tired argument. I'm using it as a way to split the group. Because the split matters.
+I'm not trying to make this an AI thing. But honestly, the common pattern is exactly that. Camp two mostly doesn't like using AI. Camp one is basically powered by it. I'm not forcing the split. It's just there. And the split matters.
 
 The friends in camp one got jobs.
 
