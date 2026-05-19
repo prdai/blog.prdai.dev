@@ -14,7 +14,7 @@ There's a pattern. I don't like the pattern.
 
 ## The Split
 
-I have a decent variety of friends in this space. But when I look at the ones applying to jobs right now, there's basically two camps.
+Looking at the ones applying to jobs right now, it splits into two camps.
 
 Camp one: the modern programmers. Codex, Claude, the whole stack of agentic tooling. They've integrated all of that into how they work. They ship.
 
