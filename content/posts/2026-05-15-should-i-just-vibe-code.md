@@ -38,23 +38,9 @@ Confused, basically. That's where I am.
 
 ## Skill Bingo
 
-So why?
+The CV game is mostly [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) bots now. A computer playing skill bingo. AI users ship more, so they have more on the list. The bar for a decent junior project has also moved up because of AI. More competition, fewer jobs.
 
-The CV game right now is just different. It's mostly [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) scoring at this point. A computer playing skill bingo. Do you have these specific skills listed, yes or no. If yes, you're through. If no, fuck off.
-
-A GitHub can kind of tell you something about a dev. Look at someone's repos and you get a sense of how into this they are. ykwim? Doesn't matter at this stage though. The bot doesn't see it. It's just matching on what you've shipped with. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side, it makes sense. It's a clean way to sort through thousands of applications.
-
-And here's where the AI users pull ahead. They ship more, so they have more for the bot to match against. That's basically it. Same depth on either side. The AI side just has bigger surface area on paper.
-
-## The Bar Moved
-
-Other thing I keep coming back to: the average project quality has gone up.
-
-The bar for what counts as a decent junior project has shifted. And it shifted because of AI. Not in a bad way, just as a fact. The average GitHub project is probably better than it used to be. Sure, AI can spit out garbage too, ofc. But in general? People are shipping more, and what they're shipping is more polished than what they would've shipped on their own.
-
-Which means the bar for a "good junior project" has gone up too. Naturally.
-
-More polished projects in the pool. Fewer jobs to fight over. More competition than before. From the company side it tracks. From the side of trying to land your first job? It's brutal.
+That's the backdrop. Not what's actually been eating at me though.
 
 ## A Month, A Day
 
