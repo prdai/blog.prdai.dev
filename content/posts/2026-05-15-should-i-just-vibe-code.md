@@ -10,7 +10,7 @@ The thing it actually set off though was about my friends.
 
 A bunch of them have started getting into the job market lately. Real applications, real interviews, real outcomes. I've been watching pretty closely.
 
-There's a pattern. I don't like the pattern.
+There's a pattern. I don't like it. And I think I'm in it.
 
 ## The Split
 
@@ -27,6 +27,14 @@ The friends in camp one got jobs.
 The friends in camp two didn't.
 
 That's the pattern.
+
+And then there's me. Somewhere in the middle of all this.
+
+If I had to pick, I'd say camp two. Or at least I want to be. I like going deep. I like understanding why things work the way they do. The dotfiles shit hits for me.
+
+But I can't really commit to that side either, because I keep watching camp one ship. ykwim?
+
+Confused, basically. That's where I am.
 
 ## Skill Bingo
 
@@ -59,6 +67,10 @@ If I sit down and build a project without AI, putting in the hours, the days, th
 A month. A day.
 
 Why am I doing it myself.
+
+And it's not even just the big projects. Even my own dotfiles, I've started using AI to fix them up. Which is wild because that's the one thing the camp two people are supposed to protect. But the thought process is just: what's the point of spending hours on this when AI gets me there in five minutes?
+
+The math problem isn't theoretical for me. It's already eating into the stuff I thought I cared about.
 
 Like, the integrity. The dignity. The care. Yes, all real. I care about all of it. But at the end of the day, is that gonna get me that mf job I want?
 
@@ -96,6 +108,12 @@ ykwim?
 
 That's not it, gng.
 
+So that's actually the question I keep getting stuck on. Pick a side or stay in the middle.
+
+Camp one, full send, stop caring about the deep stuff. Camp two, stay deep, accept the math is gonna keep eating me alive. Or this confused middle thing where I'm doing both kinda badly. Which is basically where I've been this whole time.
+
+I don't know yet. That's the honest answer.
+
 I'll caveat all of this. It's mostly a junior-level problem. For senior people, their experience speaks way louder than whatever side project they have on GitHub. Some of this still applies to them I'm sure, but the pressure isn't the same.
 
-Anyway. That's where I'm at. Contemplating. Leaning. Hope my point landed. :))
+Anyway. That's where I'm at. Contemplating. Leaning. Confused. Hope my point landed. :))
