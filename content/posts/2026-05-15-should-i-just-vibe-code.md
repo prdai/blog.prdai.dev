@@ -42,9 +42,9 @@ So why?
 
 The CV game right now is just different. It's mostly [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) scoring at this point. A computer playing skill bingo. Do you have these specific skills listed, yes or no. If yes, you're through. If no, fuck off.
 
-A GitHub can kind of tell you something about a dev. Look at someone's repos and you get a sense of how into this they are. ykwim? Doesn't matter though. The bot doesn't see it. And the company doesn't give two shits about your dotfiles or your "passion" anyway. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side, it makes sense. It's a clean way to sort through thousands of applications.
+A GitHub can kind of tell you something about a dev. Look at someone's repos and you get a sense of how into this they are. ykwim? Doesn't matter at this stage though. The bot doesn't see it. It's just matching on what you've shipped with. Do you have the skills? Yes or no. That's the actual filter. And honestly, from their side, it makes sense. It's a clean way to sort through thousands of applications.
 
-Sucks for the dotfiles person though. They get a ton of satisfaction out of crafting their setup, knowing their stack, going deep. That stuff matters to them. The company just doesn't care that it matters.
+And that's where the AI usage gap actually shows up. The dotfiles person tends to build passionate, niche shit. Things they're personally into. Which is great, but it's not really what companies are scanning for. Camp one with AI just churns out projects in whatever stack is being hired for. Aligned with the demand. ykwim?
 
 ## The Bar Moved
 
