@@ -84,7 +84,7 @@ I haven't actually vibe coded a proper project and put it on my GitHub yet. I've
 
 But I've started one.
 
-My first actual properly agentic engineered project, where I'm basically just a reviewer reading the code Codex produces. I review it. I steer it. I'm not the one writing it line by line.
+My first actual properly agentic engineered [project](https://github.com/prdai/aws-nitro-attestation-verifier), where I'm basically just a reviewer reading the code Codex produces. I review it. I steer it. I'm not the one writing it line by line.
 
 And it has a really good tech stack. Terraform. EC2 Nitro Enclaves. Go. Stuff I have genuinely never touched before. And somehow? It all fucking works. I'm shipping faster than I ever have.
 
