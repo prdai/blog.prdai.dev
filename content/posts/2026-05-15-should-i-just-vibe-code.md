@@ -6,41 +6,19 @@ draft = false
 
 So. A few weeks ago I was at the cafe (yes, [the same one]({{< ref "posts/2026-03-29-the-guy-who-left-his-laptop.md" >}}). variety in my life is famously not a thing) and I ended up randomly talking to a senior engineer for a bit. I don't really remember what got said anymore. But something about that conversation set off a chain of thoughts in my head and the chain hasn't really stopped since. So here we are.
 
-The thing it actually set off though was about my friends.
+The thing I keep getting stuck on is whether I should just fully start using AI for everything. Like for real. No more pretending I'm too principled for it.
 
-A bunch of them have started getting into the job market lately. Real applications, real interviews, real outcomes. I've been watching pretty closely.
+Right now? Not really. I use AI for the small stuff. The blog. Little fixes. But for the actual coding work? I still mostly write it myself. I like going deep. I like understanding why things work. The dotfiles shit hits for me.
 
-There's a pattern. I don't like it. And I think I'm in it.
+That's been my thing for a while. But I don't think I can keep this going.
 
-## The Split
+## What I'm Seeing
 
-Looking at the ones applying to jobs right now, the line I keep seeing comes down to one thing. AI users and non-AI users. That's it.
+The average project quality has gone up. AI made it move. People are shipping more, and what they're shipping is more polished than what they would've shipped on their own. The bar for what counts as a decent junior project has shifted up.
 
-Some of my friends have fully integrated Codex, Claude, the whole agentic stack into how they work. They ship a lot.
+I see this everywhere now. Projects I would've spent a month on, finished by other people in a day. The CV game has also gotten weird. [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) bots playing skill bingo, AI users having more on the list to be matched on.
 
-Others don't really touch it. They write all the code themselves. They ship too, just slower.
-
-I'm not forcing this framing. The split is just AI usage. Not personality types, not how passionate someone is, not anything else. Just whether you use AI or not.
-
-The friends using AI got jobs.
-
-The friends who don't really use AI didn't.
-
-That's the pattern.
-
-And then there's me. Somewhere in the middle of all this.
-
-If I had to pick, I'd say I lean toward the non-AI side. I like writing the code myself. I like understanding why things work. The dotfiles shit hits for me.
-
-But I can't fully commit to that side either. Because honestly? It feels like a satisfaction vs actual results thing. The non-AI side has the satisfaction. The AI side has the actual results. And I don't know which one I'm supposed to pick.
-
-Confused, basically. That's where I am.
-
-## Skill Bingo
-
-The CV game is mostly [ATS](https://en.wikipedia.org/wiki/Applicant_tracking_system) bots now. A computer playing skill bingo. AI users ship more, so they have more on the list. The bar for a decent junior project has also moved up because of AI. More competition, fewer jobs.
-
-That's the backdrop. Not what's actually been eating at me though.
+It's not really a market analysis or whatever. It's just what I've been watching happen. And it's been making me reconsider.
 
 ## A Month, A Day
 
@@ -82,7 +60,7 @@ I'm leaning toward this. I could probably agentic engineer something solid in Ru
 
 But here's the part I haven't said yet.
 
-Remember the non-AI side? The people writing all the code themselves. Going deep on every detail. Knowing their shit cold.
+The people who actually know their shit cold. Writing all their code themselves. Going deep on every detail.
 
 If they start using AI? I bet your ass they're gonna generate way better projects and code than the rest of us. Because they have the baseline. They have the instincts. They have the depth.
 
