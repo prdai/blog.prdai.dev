@@ -60,11 +60,9 @@ I'm leaning toward this. I could probably agentic engineer something solid in Ru
 
 But here's the part I haven't said yet.
 
-The people who actually know their shit cold. Writing all their code themselves. Going deep on every detail.
+Even if I commit, the part of me that actually liked this just doesn't come back. The going-deep part. The figuring-it-out part. That just goes.
 
-If they start using AI? I bet your ass they're gonna generate way better projects and code than the rest of us. Because they have the baseline. They have the instincts. They have the depth.
-
-The baseline for quality and quantity has gone up across the board. And if you don't catch up, you're stuck in the bottom percentile.
+There's no getting that back.
 
 ykwim?
 
