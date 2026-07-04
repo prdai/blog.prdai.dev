@@ -1,5 +1,5 @@
 +++
-title = 'Slaves to the Network Latency'
+title = 'slaves to the network latency'
 date = 2026-07-04T00:00:00+05:30
 draft = false
 +++
