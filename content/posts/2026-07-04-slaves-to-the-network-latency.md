@@ -14,12 +14,6 @@ Think about how sad it has become. The current SE or tech market as a whole, as 
 
 It's sad to see. Is this what we have become? Is this the life we wanted to live when we wanted to become software engineers? Or whatever. For me? Not really.
 
-## No Flow State
-
-I was really looking forward to getting into that "flow state." But honestly I haven't, in a while.
-
-It doesn't mean I haven't done stuff. I think I've done the most amount of work I have ever done. But I have little to no appreciation for it. And it's just sad, in a sense, I suppose.
-
 ## We Are the Waiting Machines
 
 But that network call thing, that's kind of what makes me think the most.
