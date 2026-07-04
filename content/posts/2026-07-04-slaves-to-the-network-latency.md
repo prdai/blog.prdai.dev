@@ -1,5 +1,5 @@
 +++
-title = 'Slaves to the Network Latency'
+title = 'slaves to the network latency'
 date = 2026-07-04T00:00:00+05:30
 draft = false
 +++
@@ -13,12 +13,6 @@ So the thing is, I realized a few things.
 Think about how sad it has become. The current SE or tech market as a whole, as far as I know. The orgs, the people who use Claude. They literally are a "slave" to compute, in the sense of how slow that GPU, probably sitting in Utah, is taking. And the network latency between your computer and that data center. And all that shit it has to go through.
 
 It's sad to see. Is this what we have become? Is this the life we wanted to live when we wanted to become software engineers? Or whatever. For me? Not really.
-
-## No Flow State
-
-I was really looking forward to getting into that "flow state." But honestly I haven't, in a while.
-
-It doesn't mean I haven't done stuff. I think I've done the most amount of work I have ever done. But I have little to no appreciation for it. And it's just sad, in a sense, I suppose.
 
 ## We Are the Waiting Machines
 
