@@ -26,8 +26,6 @@ I mean, of course we got GDPR and all of them rules, so it will never happen. Bu
 
 I feel like this is a really interesting problem to work on. How can you be compliant and still share data with these companies?
 
-Population analysis, or very generalized data analyzed over a lot of people, is a thing they're already doing, for example. But that's an example of the things they have to do now, since they don't have access to this direct data.
-
 This sort of full data access can help companies, users, the entire stack. It's just compliance and trust that's holding us back. Would be something really worth exploring some day.
 
 But for now, just sharing out my random dancing thought lol :)
