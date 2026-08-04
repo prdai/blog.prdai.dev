@@ -1,7 +1,7 @@
 +++
 title = 'the random dancing thought'
 date = 2026-08-05T00:00:00+05:30
-draft = true
+draft = false
 +++
 
 So I put some hype, singable, danceable songs on Spotify and just started dancing randomly. As one does.
