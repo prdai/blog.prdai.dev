@@ -32,7 +32,7 @@ The part that actually interests me is what this did to people.
 
 Before all this, two developers with nothing in common had basically nothing to talk about. You'd do the nod, the "hey man," and move on. That was the entire interaction.
 
-Now there's always a way in. There's always a take to give. I've ended up twenty minutes deep with total strangers because one of us said something about a model. I'm not even a social guy. I'm the "hello to my three readers" guy. But this stuff just comes up.
+Now there's always a way in. There's always a take to give. I've ended up twenty minutes deep with total strangers because one of us said something about a model. I don't even talk to people like that. But drop a model release and suddenly I'm yapping.
 
 That's a lot. A whole shared thing just kind of appeared out of nowhere.
 
