@@ -24,7 +24,7 @@ This one line. I swear it has started more conversations this year than anything
 
 Claude drops something. Someone posts it in the group chat. "oh they dropped a new model." Then someone goes "i think the other one's better imo." And boom, we're off. Twenty messages about a thing half of us haven't even properly tried yet.
 
-It's the closest thing we have to talking about the game last night. Except the game is a benchmark, and half of us think the benchmark is fake anyway lol.
+It's the closest thing we have to talking about the game last night. Except the game is a benchmark, and half of us thinks the benchmark is fake anyway lol.
 
 ## Random Conversations Out of Nowhere
 
