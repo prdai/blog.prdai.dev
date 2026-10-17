@@ -4,9 +4,13 @@ date = 2026-10-17T00:00:00+05:30
 draft = false
 +++
 
-Yo, so. I need to talk about something that's been bugging me for a while.
+Yo, so. It's been a minute. This one's been sitting in my head for a while now, and honestly it's just a bunch of thoughts I've been having that I needed to dump somewhere. I asked claude to help me structure it so it's actually readable, but the thoughts are all mine.
 
-It's about forgetting. Not the normal kind. Not the "what was that function called again" kind. I mean opening a codebase you built and realizing you don't actually know what's in there.
+Have you ever actually sat down and opened a codebase you built? Not skimmed it. Opened it. Tried to read it the way you'd read someone else's. Because I did that recently, and I couldn't.
+
+And I keep arriving at this from the same places I always do. The cafe, same one [from the laptop guy]({{< ref "posts/2026-03-29-the-guy-who-left-his-laptop.md" >}}) and the [month-versus-a-day math]({{< ref "posts/2026-05-15-should-i-just-vibe-code.md" >}}). Staring into that little "Transfiguring" word in Claude Code while some GPU in Utah takes its sweet time. The group chat where every single conversation turns into a model drop. Different doors, same room.
+
+That's the thing I can't get past. The forgetting. Not the normal kind, where you forget a function name and pull it back up. I mean remembering nothing. Opening a codebase you built and realizing you don't actually know what's in there.
 
 ## The One I Inherited, and the One I Built
 
@@ -64,4 +68,6 @@ I don't think it does. The pace isn't slowing down. This is the future, and we'r
 
 And honestly, I think it's going to raise way more problems than it solves. Way more. It sounds sad but it's real at the same time.
 
-I don't have a fix. I don't think there is one. And that part's disgusting to me. :))
+I don't have a fix. I don't think there is one. And that part's disgusting to me.
+
+Anyway. That's where I'm at. Hope I know my own codebase again before I graduate. :))
