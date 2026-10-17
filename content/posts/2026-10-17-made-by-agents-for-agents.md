@@ -4,11 +4,9 @@ date = 2026-10-17T00:00:00+05:30
 draft = false
 +++
 
-Yo, so. It's been a minute. This one's been sitting in my head for a while now, and honestly it's just a bunch of thoughts I've been having that I needed to dump somewhere. I asked claude to help me structure it so it's actually readable, but the thoughts are all mine.
+Hey there, so- this one's been sitting in my head for a while now. It's a bunch of thoughts I've had that I needed to dump somewhere. I asked claude to help me structure it so it's actually readable, but the thoughts are all mine.
 
 Have you ever actually sat down and opened a codebase you built? Not skimmed it. Opened it. Tried to read it the way you'd read someone else's. Because I did that recently, and I couldn't.
-
-And I keep arriving at this from the same places I always do. The cafe, same one [from the laptop guy]({{< ref "posts/2026-03-29-the-guy-who-left-his-laptop.md" >}}) and the [month-versus-a-day math]({{< ref "posts/2026-05-15-should-i-just-vibe-code.md" >}}). Staring into that little "Transfiguring" word in Claude Code while some GPU in Utah takes its sweet time. The group chat where every single conversation turns into a model drop. Different doors, same room.
 
 That's the thing I can't get past. The forgetting. Not the normal kind, where you forget a function name and pull it back up. I mean remembering nothing. Opening a codebase you built and realizing you don't actually know what's in there.
 
