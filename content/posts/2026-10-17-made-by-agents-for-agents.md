@@ -4,11 +4,11 @@ date = 2026-10-17T00:00:00+05:30
 draft = false
 +++
 
-Hey there, so- this one's been sitting in my head for a while now. It's a bunch of thoughts I've had that I needed to dump somewhere. I asked claude to help me structure it so it's actually readable, but the thoughts are all mine.
+Hey there, so- this one's been sitting in my head for a while now. Which is funny, because the whole thing is about forgetting, and I kept forgetting to write it.
 
 Have you ever actually sat down and opened a codebase you built? Not skimmed it. Opened it. Tried to read it the way you'd read someone else's. Because I did that recently, and I couldn't.
 
-That's the thing I can't get past. The forgetting. Not the normal kind, where you forget a function name and pull it back up. I mean remembering nothing. Opening a codebase you built and realizing you don't actually know what's in there.
+And not the one I inherited. Mine. The one I architected, directed, signed off on. I couldn't tell you what's in the folders I made.
 
 ## The One I Inherited, and the One I Built
 
