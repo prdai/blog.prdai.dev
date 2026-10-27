@@ -54,7 +54,7 @@ How did we even get here. Like how. Fucking how.
 
 Here's how. It wasn't like this before because we used to be slow.
 
-And the reason is boring: I never had time to care about it. Something that used to take months takes days now, sometimes weeks, and then it's another task done, another issue closed, on to the next one.
+And the reason is boring: I chose not to care. Why would I. I could finish two more PRs in that time. lol. Something that used to take months takes days now, sometimes weeks, and then it's another task done, another issue closed, on to the next one.
 
 You'd write something. You'd read it again. You'd come back to it. You'd debug it for hours and learn it in the process. The slowness was the learning. That's how you ended up knowing your own codebase.
 
