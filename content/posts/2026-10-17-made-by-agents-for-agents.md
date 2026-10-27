@@ -14,7 +14,7 @@ And not the one I inherited. Mine. The one I architected, directed, signed off o
 
 There's this codebase someone else "agentic engineered". Start to finish, done by agents. A handful of services, infra on top, the whole thing. I came into it later and I could not move through it.
 
-Not "it took me a minute." I mean I could not navigate it. Not the bug. Not the feature. Not even finding the folder I needed. At one point I tried to explain it to someone and just couldn't. All of it, at once.
+Not "it took me a minute." I mean I could not navigate it. Not the bug. Not the feature. Not even finding the folder I needed. You can't even grep for it. There's so much comment spam in there that a search comes back with forty hits and none of them are the line you want. Honestly man.
 
 Then there's mine. The one I built. I architected it, every moving part went through me, I directed the whole thing. I know the flow. The general overview, what talks to what. The hard code, not anymore. And I can't put my finger on where any of it lives. I can't remember the folder structure. Ask me where anything is and I have to go and look. I haven't run a makefile command in it. Not once. Why would I? I got agents.
 
