@@ -20,6 +20,10 @@ Then there's mine. The one I built. I architected it, every moving part went thr
 
 That's the part that gets me. I didn't inherit the confusion. I made it.
 
+And the reason is boring: I never had time to care about it. Something that used to take months takes days now, sometimes weeks, and then it's another task done, another issue closed, on to the next one.
+
+You don't build a feel for a thing you never sat with. And a human can't hold that much that fast anyway. So nobody holds it. We keep shipping, and then we ask the agent where the thing we just shipped actually lives.
+
 ## The Creator Doesn't Know Either
 
 I've asked the person who built theirs what it does. More than once. They don't know. Not fully. They'll pull up the agent and ask it, same as me.
