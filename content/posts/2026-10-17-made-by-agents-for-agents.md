@@ -12,7 +12,7 @@ And not the one I inherited. Mine. The one I architected, directed, signed off o
 
 ## The One I Inherited, and the One I Built
 
-There's this codebase someone else agentic engineered. Start to finish, done by agents. A handful of services, infra on top, the whole thing. I came into it later and I could not move through it.
+There's this codebase someone else "agentic engineered". Start to finish, done by agents. A handful of services, infra on top, the whole thing. I came into it later and I could not move through it.
 
 Not "it took me a minute." I mean I could not navigate it. Not the bug. Not the feature. Not even finding the folder I needed. At one point I tried to explain it to someone and just couldn't. All of it, at once.
 
