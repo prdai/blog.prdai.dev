@@ -44,6 +44,10 @@ That's gone. And here's the part that actually gets me: the seniors don't have i
 
 Good for the juniors, sure. They can move without waiting on anybody. But who do they become. Who's the senior, if nobody's carrying it.
 
+To be fair though, the seniors still have something. They know the domain, and they know it better than anyone. What the thing is supposed to do. What breaks and why. What the customer actually meant when they wrote the ticket. That part is real, and it's critical.
+
+What they don't have is the technical upper hand. That evened out. Some of it is experience, and experience still counts for something. But knowing your way around the codebase, that's the same thing happening to them now.
+
 How did we even get here. Like how. Fucking how.
 
 ## The Pace Is the Thing
