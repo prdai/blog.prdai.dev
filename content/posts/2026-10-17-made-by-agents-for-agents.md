@@ -111,8 +111,12 @@ I keep waiting for the part where it turns around. Where you go back to understa
 
 I don't think it does. The pace isn't slowing down. This is the future, and we're all just supposed to accept it and move faster than yesterday.
 
-And honestly, I think it's going to raise way more problems than it solves. Way more. It sounds sad but it's real at the same time.
+And it's not all downside. That's the part I should be honest about. Get a bug, ask Claude, fix it, move on. It's simple. It's faster. The product ships.
 
-I don't have a fix. I don't think there is one. And that part's disgusting to me.
+But it's a loop now. Break something, fix it fast, break the next thing. Does the product get built faster? Yeah. But do I actually enjoy it? For me, not really.
+
+It's unfortunate, but it's the reality. I still think it's going to cause more problems than it solves. Both things can be true. I don't have a fix, and I don't think there is one, and that still bothers me.
+
+Either you move with it or you get left behind, or whatever the quote is.
 
 Anyway. That's where I'm at. Hope I know my own codebase again before I graduate. :))
