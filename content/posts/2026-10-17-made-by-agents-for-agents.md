@@ -38,6 +38,14 @@ Good for the juniors, sure. They can move without waiting on anybody. But who do
 
 How did we even get here. Like how. Fucking how.
 
+## The Names Stopped Mattering
+
+We used to know which file was what. Where the abstraction class lived. The whole hierarchy, top to bottom. You could ask someone a question about their codebase and they'd answer it out of their head.
+
+Now the instruction is "add x". That's it. Nobody asks what the file is called. Nobody asks where the class goes. It gets added, it works, everyone moves on.
+
+I don't think that's the devs. I think it's the shape of the work now, maybe the product side, the "just ship the task" of it all. Perfectionism going away slowly, and I can watch it happen, and I can't even be mad at anyone for it.
+
 ## The Pace Is the Thing
 
 Here's where I land. It wasn't like this before because we used to be slow.
@@ -55,6 +63,10 @@ Which brings me to what I actually think is happening.
 These codebases are made by agents now. Made by agents, for agents. We're not the audience anymore. We're the passenger. The code isn't written for a human to sit down and read. It's written for another agent to pick up and extend, and for you to query when you need something.
 
 Which means you need the AI. Not as a convenience. As the only way in. You can't do without it. For most things, that's just how it is now.
+
+Here's the test I keep running in my head. Tomorrow every model goes dark. Claude, Codex, all of it, gone. How long until someone can work on one of these codebases. Weeks. Months. On some of them, I don't think anyone ever does, because nobody alive held the map in the first place.
+
+We're building faster and shipping more than ever. We're also depending on agents more than ever, for the writing and the reading both. Those are the same fact.
 
 And I hate that part. Not the tool. The needing. I hate not knowing my own codebase. I hate that owning it stopped meaning anything.
 
