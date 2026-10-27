@@ -118,5 +118,3 @@ But it's a loop now. Break something, fix it fast, break the next thing. Does th
 It's unfortunate, but it's the reality. I still think it's going to cause more problems than it solves. Both things can be true. I don't have a fix, and I don't think there is one, and that still bothers me.
 
 Either you move with it or you get left behind, or whatever the quote is.
-
-Anyway. That's where I'm at. Hope I know my own codebase again before I graduate. :))
