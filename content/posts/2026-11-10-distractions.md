@@ -4,70 +4,70 @@ date = 2026-11-10T00:00:00+05:30
 draft = true
 +++
 
-Yo, so. I've been thinking about distractions for a while now and I need to put it somewhere.
+so i've been thinking about this for a while and i just need to write it down somewhere.
 
-We have so many of them. It's weird when you actually sit with it.
+we have a lot of distractions. like a lot. and it's weird when you actually think about it.
 
-I saw a LinkedIn post a while back where the guy was basically saying we're too lazy to think. Not lazy in the sitting-on-the-couch way. Lazy as in, we'll do anything to avoid actually thinking something through. [1]
+i saw this linkedin post by someone, it was basically about how people are lazy to think. like they'll do anything to not actually think something through. [1]
 
-And I believed it immediately. Not because it's a hot take. Because it felt so obvious.
+and i believe in this so much. i mean it must seem so obvious, yes. but i believe it.
 
-## The Instagram Thing
+## the instagram thing
 
-I'm someone who actually tries. I really do.
+so for instance, i am someone who really tries to not get distracted. in terms of doomscrolling and all that.
 
-I delete Instagram for a day. Maybe a bit more. Then I install it back. Then I delete it again. I've lasted long stretches without it, somewhat. And I always come back. Every single time.
+i delete instagram. for like a day, day and a half maybe. and then i get it back. and then i delete it again. i have lasted a long period without it, somewhat. but i always come back. every time.
 
-For a while I told myself that was progress. Look at me, barely on the app.
+for a while i was like, see, progress. barely on the app.
 
-## I Still Find a Way
+## but i still find a way
 
-But here's the funny part. Even when Instagram is gone, I still find a way to keep myself stimulated. I still find a way to not spend time with my own thoughts.
+and you know what's funny? even without instagram, i still find a way to stimulate myself. or kinda just not spend time with my thoughts.
 
-It was never actually about the app. The app is just the laziest option.
+it was never about the app. the app is just the easiest option.
 
-## Music Counts Too
+## music counts too
 
-I listen to music constantly. Even right now. I'm writing this and there's a song playing, and I'm not going to pretend otherwise lol.
+i listen to music constantly. i mean right now, even writing this, i am listening to music lol.
 
-Last year's Spotify Wrapped put me in the top 0.001% or something. I had to sit with that for a second.
+last year i was in the top 0.001% or something of the spotify user base in my wrapped. lmao. i had to sit with that one for a minute.
 
-Because I always thought of music as the good distraction. The healthy one. It's not doomscrolling, so it must be fine.
+because i always thought music was the good distraction, you know? the healthy one. it's not doomscrolling so it must be fine.
 
-But it's the same thing. It fills the room. There's always something in the background so I don't have to be alone with whatever is in my head.
+but it's the same thing. it fills the room. there's always something in the background so i don't have to be alone with whatever is in my head.
 
-## Two Reasons
+## two things i think
 
-I think there are two parts to this.
+i think there are two aspects to this.
 
-First, we don't want to be lonely. Silence feels like being alone, and being alone feels wrong. So we put something on. Any voice will do.
+one is that we don't wanna be lonely. silence feels like being alone and being alone feels wrong. so we put something on. any voice will do.
 
-Second, and this is the one that gets me, we don't want to think about things we don't want to think about. That's it. Simply as that.
+the other thing is that we don't wanna think about things that we don't wanna think about. simply as that. if that makes sense.
 
-Some thought is sitting there waiting for you. Something you haven't dealt with. Something you'd rather not look at. Distraction is cheaper than dealing with it. Numb is easier.
+some thought is just sitting there waiting for you. something you haven't dealt with, something you'd rather not look at. and getting distracted and not thinking, being numb, is better than actually going through with it. or doing it. i don't know which word works.
 
-## So We Stay Numb
+## so we stay numb
 
-I don't think people are lazy in the way we usually mean it. We're just scared of what's in the quiet.
+i don't think people are lazy in the way we usually mean it. we're just scared of the quiet.
 
-You don't need Instagram for that. You just need noise.
+you don't need instagram for that. you just need noise.
 
-And we've got unlimited noise now. Always a video playing in the background while you do literally anything else.
+and we have unlimited noise now. there's always a video playing in the background while you're doing literally anything else.
 
-Which is why "just delete the app" never works. You delete the app and you keep the habit. You just move it somewhere else.
+which is why "just delete the app" never works. you delete the app and you keep the habit. you just move it somewhere else.
 
-## Where That Leaves Me
+## where that leaves me
 
-I don't have a fix. I wish I did.
+i don't have a fix. i wish i did.
 
-I'm still going to delete Instagram for a day. I'm still going to have music on while I write this. Probably every post.
+i'm still gonna delete instagram for a day. i'm still gonna have music on while i write this. probably every post.
 
-But I've at least stopped pretending they're different things. It's all the same avoidance, just with a different tab open.
+but at least i've stopped pretending they're different things. it's all the same avoidance, just with a different tab open.
 
-Sometimes I wonder what I'd think about if I let the silence sit for a while.
+sometimes i wonder what i'd think about if i let the silence sit for a while.
 
-Then I put a song on and stop wondering. :)
+and then i put a song on and stop wondering. :)
 
-## References
+## references
 
 [1] https://lnkd.in/p/ebbZvJbn
